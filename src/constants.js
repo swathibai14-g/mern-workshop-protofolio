@@ -34,8 +34,8 @@ dark: {
 export const PERSONAL_INFO = {
   name: "SWATHI",
   tagline: "Full Stack Developer & UI/UX Enthusiast",
-  email: "swathi123@gmail.com",
-  phone: "1234567890",
+  email: "swathibai140905@gmail.com",
+  phone: "7396090241",
   location: "chilamathur, Ap",
 
   // Social Media Links
