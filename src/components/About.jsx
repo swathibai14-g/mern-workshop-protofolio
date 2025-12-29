@@ -53,7 +53,7 @@ const About = ({ darkMode }) => {
               <div className="relative z-10 rounded-2xl overflow-hidden shadow-xl aspect-square bg-gray-200">
                 {/* Placeholder for profile image */}
                 <div className="w-full h-full flex items-center justify-center text-6xl bg-linear-to-br from-gray-300 to-gray-400">
-                  👋
+                  <img src="/image.png" alt="swathi"/>
                 </div>
               </div>
             </motion.div>
